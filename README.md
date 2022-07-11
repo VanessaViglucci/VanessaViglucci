@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Vanessa! 👋 <br/><a href="https://github.com/VanessaViglucci">Programmer, webdesigner, and artist. </a></h1>
+I am in my third year at New York University. I am majoring in Computer Science with a minor in Studio Art. I am very interested in  full-stack webdesign, software engineering and AI but I hope to pursue a career in cyber security. 
 
-<!--
-**VanessaViglucci/VanessaViglucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 💟 Software Development Projects:</h2>
+- Simple Calculator in Java (https://github.com/VanessaViglucci/Calculator)
+<h2> 💟 WebDesign Projects: </h2>
+- Personal Website in HTML, CSS and Javascript (http://github.com/VanessaViglucci/Website)
 
-Here are some ideas to get you started:
+<h2> 💟 Cyber security projects: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 💟 Connect with me:</h2>
+[instagram]: https://www.instagram.com/vanessaviglucci/ <br>
+[linkedin]: www.linkedin.com/in/vanessaviglucci <br> 
+[email]: vanessa.viglucci@gmail.com
