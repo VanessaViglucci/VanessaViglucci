@@ -5,7 +5,8 @@ I am in my third year at New York University. I am majoring in Computer Science 
 - Simple Calculator in Java (https://github.com/VanessaViglucci/Calculator) <br>
 <br>
   <b> Data Structures and Algorithms Projects: </b> <br> 
-  - Huffman Encoder (encodes and decodes a text message) (https://github.com/VanessaViglucci/HuffmanEncoder)
+  - Huffman Encoder (encodes and decodes a text message) (https://github.com/VanessaViglucci/HuffmanEncoder) <br> 
+  - Expression Tree (Creates expression tree from an expression entered by the user. Traver tree to print different forms of the expression) (https://github.com/VanessaViglucci/ExpressionTree)
   
 <h2> 💟 WebDesign Projects: </h2>
 - Personal Website in HTML, CSS and Javascript (http://github.com/VanessaViglucci/Website)
