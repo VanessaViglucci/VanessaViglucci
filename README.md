@@ -4,7 +4,8 @@ I am in my third year at New York University. I am majoring in Computer Science 
 <h2> 💟 Software Development Projects:</h2>
 - Simple Calculator in Java (https://github.com/VanessaViglucci/Calculator) <br>
 <br>
-  <b> Data Structures and Algorithms Projects: </b>
+  <b> Data Structures and Algorithms Projects: </b> <br> 
+  - Huffman Encoder (encodes and decodes a text message) (https://github.com/VanessaViglucci/HuffmanEncoder)
   
 <h2> 💟 WebDesign Projects: </h2>
 - Personal Website in HTML, CSS and Javascript (http://github.com/VanessaViglucci/Website)
